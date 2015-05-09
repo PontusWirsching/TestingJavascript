@@ -1,3 +1,4 @@
 function test() {
-	console.log("Test Function");
+	console.log("Shitty function");
 }
+var o = 13;
